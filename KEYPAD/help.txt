@@ -1,0 +1,3 @@
+THIS IS FOR 5 ROW and 4 Col KEYPAD
+
+Connect to pins 30 to 38 : FROM RIGHT TO LEFT (examine)
